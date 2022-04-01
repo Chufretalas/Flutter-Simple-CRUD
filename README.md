@@ -1,6 +1,6 @@
-# Flutter-Simple_CRUD
+# Flutter-Simple-CRUD
 
-App de notas com CRUD sqflite em mais de uma tela
+App de notas com CRUD sqflite em mais de uma tela.
 
 ## Usando o app
 
